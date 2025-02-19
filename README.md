@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ForeverAmine
 - 👀 I’m interested in Python , C++ , Javascript
 - 🌱 I’m currently learning Python
-- ⚡ Fun fact: I'm 13 years old in 2024
+- ⚡ Fun fact: I'm 13 years old in 2025
 
 <!---
 ForeverAmine/ForeverAmine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
